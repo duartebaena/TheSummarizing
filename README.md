@@ -1,4 +1,4 @@
-# The Summarizer
+# The Summarizing
 ## Brief resume:
 * This was a game made during my bootcamp at Code For All_ 
 * It is a group project made around the 4th week. This is a game made purely in java and uses a Librarie named SimpleGraphicsGFX.
